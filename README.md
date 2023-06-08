@@ -2,7 +2,8 @@
 
 # 💡 Quote Generator
 
-<img src="preview.png" alt="Project Image" width="700">
+<img src="web.png" alt="Project Image" width="700">
+<p>Desktop Version</p>
 
 </div>
 
