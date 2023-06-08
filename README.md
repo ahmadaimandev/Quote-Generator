@@ -12,7 +12,7 @@
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget neque a lorem vehicula faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+The Quote Generator project combines HTML, CSS, and JavaScript to create a dynamic web app. It fetches random quotes from an API, delivering an engaging and visually appealing experience. JavaScript seamlessly retrieves and displays quotes, ensuring an interactive user experience.
 
 <div align="center">
 
