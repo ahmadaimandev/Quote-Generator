@@ -13,13 +13,6 @@
 ## Description
 
 The Quote Generator project combines HTML, CSS, and JavaScript to create a dynamic web app. It fetches random quotes from an API, delivering an engaging and visually appealing experience. JavaScript seamlessly retrieves and displays quotes, ensuring an interactive user experience.
-
-<div align="center">
-
-![Example](example.gif)
-
-</div>
-
 ## Usage
 
 To use this project, follow these steps:
