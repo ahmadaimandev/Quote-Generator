@@ -2,10 +2,10 @@
 
 # 💡 Quote Generator
 
-<img src="web.png" alt="Project Image" width="700">
+<img src="/preview/web.png" alt="Project Image" width="700">
 <p>Desktop Version</p>
 
-<img src="mobile.png" alt="Project Image" width="300">
+<img src="/preview/mobile.png" alt="Project Image" width="300">
 <p>Mobile Version</p>
 
 </div>
