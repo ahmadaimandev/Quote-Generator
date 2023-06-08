@@ -5,8 +5,8 @@
 <img src="web.png" alt="Project Image" width="700">
 <p>Desktop Version</p>
 
-<img src="mobile.png" alt="Project Image" width="600">
-<p>Mobile Version Version</p>
+<img src="mobile.png" alt="Project Image" width="400">
+<p>Mobile Version</p>
 
 </div>
 
