@@ -5,7 +5,7 @@
 <img src="web.png" alt="Project Image" width="700">
 <p>Desktop Version</p>
 
-<img src="mobile.png" alt="Project Image" width= >
+<img src="mobile.png" alt="Project Image" width="700">
 </div>
 
 ## Description
