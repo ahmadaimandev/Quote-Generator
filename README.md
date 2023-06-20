@@ -17,7 +17,7 @@ The Quote Generator project combines HTML, CSS, and JavaScript to create a dynam
 
 To use this project, follow these steps:
 
-1. Clone the repository: `(https://github.com/ahmadaimandev/Quote-Generator.git)`
+1. Clone the repository: `(https://github.com/ahmadaimandev/Quote-Generator.git/stargazers)`
 2. Open `index.html` in your web browser.
 3. Enjoy!
 
